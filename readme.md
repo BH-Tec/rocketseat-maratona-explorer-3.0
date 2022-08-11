@@ -30,3 +30,8 @@ Projeto da Rocketseat no evento Maratona Explorer 3.0.
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
+
+Ajustar fonte
+Ajustar imagens
+
+---
